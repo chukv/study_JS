@@ -1,0 +1,14 @@
+.div {
+  display: none;
+}
+
+.div.active {
+  display: block;
+}
+
+.divis {
+  width: 100px;
+  height: 150px;
+  background-color: aqua;
+  margin-top: 10px;
+}
